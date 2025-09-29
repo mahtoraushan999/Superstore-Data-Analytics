@@ -72,3 +72,5 @@ Sales peaked at ₹118,448 in late 2017.
 The **return rate of ~6%** indicates a need to analyze product quality and customer satisfaction.
 
 Overall sales show a **positive upward trend,** reflecting business growth from 2014 to 2018.
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/dd4d9378-26d2-47d7-af6b-b711d5b2a717" />
