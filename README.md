@@ -7,7 +7,7 @@ The goal of this project is to demonstrate data visualization skills, business p
 
 **🛠️ Tools & Technologies**
 
-Tableau Public (for dashboard design)
+**.Tableau Public** (for dashboard design)
 
 Superstore Dataset (sample retail data)
 
