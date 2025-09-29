@@ -1,11 +1,11 @@
 # Superstore-Data-Analytics
-📌 Project Overview
+**📌 **Project Overview****
 
 This project analyzes sales performance of the Superstore (USA) dataset using Tableau. The dashboard provides interactive insights into Sales, Profit, and Orders across different categories, sub-categories, regions, states, and customer segments.
 
 The goal of this project is to demonstrate data visualization skills, business performance analysis, and dashboard building in Tableau.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Tableau Public (for dashboard design)
 
